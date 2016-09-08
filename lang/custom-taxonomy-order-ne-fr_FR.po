@@ -107,7 +107,7 @@ msgid "Order updated successfully."
 msgstr "Ordre mis à jour avec succès."
 
 #: customtaxorder.php:339
-msgid "An error occured, order has not been saved."
+msgid "An error occurred, order has not been saved."
 msgstr "Une erreur s'est produite, l'ordre n'a pas été enregistré."
 
 #~ msgid "Order Categories"

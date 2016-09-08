@@ -114,5 +114,5 @@ msgid "Order updated successfully."
 msgstr "Reihenfolge erfolgreich aktualisiert."
 
 #: ../customtaxorder.php:351
-msgid "An error occured, order has not been saved."
+msgid "An error occurred, order has not been saved."
 msgstr "Ein Fehler ist aufgetreten, die Reihenfolge wurde nicht gespeichert."

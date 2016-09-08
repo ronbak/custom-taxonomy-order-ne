@@ -173,7 +173,7 @@ function customtaxorder_update_order() {
 		echo '<div id="message" class="updated fade notice is-dismissible"><p>'. __('Order updated successfully.', 'custom-taxonomy-order-ne').'</p></div>';
 		do_action('customtaxorder_update_order', $ids);
 	} else {
-		echo '<div id="message" class="error fade notice is-dismissible"><p>'. __('An error occured, order has not been saved.', 'custom-taxonomy-order-ne').'</p></div>';
+		echo '<div id="message" class="error fade notice is-dismissible"><p>'. __('An error occurred, order has not been saved.', 'custom-taxonomy-order-ne').'</p></div>';
 	}
 }
 
